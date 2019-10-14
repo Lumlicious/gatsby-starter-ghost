@@ -1,10 +1,10 @@
 {
   "development": {
-    "apiUrl": "http://54.89.160.89",
+    "apiUrl": "https://www.admin.chadlumley.dev",
     "contentApiKey": "aacdf6c2f9012bc41042ee1b41"
   },
   "production": {
-    "apiUrl": "http://54.89.160.89",
+    "apiUrl": "https://www.admin.chadlumley.dev",
     "contentApiKey": "aacdf6c2f9012bc41042ee1b41"
   }
 }
